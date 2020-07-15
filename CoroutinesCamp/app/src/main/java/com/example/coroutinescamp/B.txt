@@ -1,0 +1,5 @@
+协程：并发 Concurrency? 并行 Parallelism?
+Android 有并行吗？ CPU核数--CPU线程；操作系统线程；JVM线程
+线程安全：线程安全的本质、Thread.sleep()的本质、wait()/notify()的本质？
+
+不要学面试题：synchronized怎么用？ 「锁有几种类型？」 「谁快谁慢？」
